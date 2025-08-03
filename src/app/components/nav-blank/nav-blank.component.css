@@ -1,0 +1,19 @@
+.nav-item {
+   position: relative;
+}
+
+.badge {
+   font-size: 0.75rem;
+   width: 25px;
+   height: 25px;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.position-absolute {
+   margin-top: 5px;
+   top: 0px;
+   right: -10px;
+   bottom: 0px;
+}
