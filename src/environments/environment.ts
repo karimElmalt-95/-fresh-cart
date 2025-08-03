@@ -1,4 +1,4 @@
 export const environment = {
-    baseApiUrl: 'https://ecommerce.routemisr.com/api/v1/',
+    baseApiUrl: 'https://ecommerce.routemisr.com',
     clientUrl: ''
 };
